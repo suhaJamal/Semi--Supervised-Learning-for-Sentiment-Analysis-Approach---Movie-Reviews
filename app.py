@@ -14,7 +14,7 @@ from gensim.utils import simple_preprocess
 from sklearn.linear_model import LogisticRegression
 import xgboost as xgb
 
-#nltk.download('stopwords')
+nltk.download('stopwords')
 
 if not nltk.corpus.stopwords.words('english'):
     nltk.download('stopwords')
