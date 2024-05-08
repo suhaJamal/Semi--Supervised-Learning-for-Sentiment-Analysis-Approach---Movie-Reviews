@@ -6,6 +6,9 @@ This project applies semi-supervised learning techniques to perform sentiment an
 ### Live Demo
 Check out the interactive web application to see the model in action: [Sentiment Analysis Web App](http://34.125.92.133:8501/)
 
+### Dataset Link:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ### Objectives
 - To apply semi-supervised learning methods for sentiment analysis within the Natural Language Processing (NLP) framework.
 - To compare the performance of various models such as Logistic Regression, Multinomial Naive Bayes, and XGBoost in classifying sentiments.
