@@ -4,7 +4,7 @@
 This project applies semi-supervised learning techniques to perform sentiment analysis on movie reviews from the IMDB dataset. It explores the effectiveness of different classification models to determine sentiments expressed in movie reviews as either positive or negative.
 
 ### Live Demo
-Check out the interactive web application to see the model in action: [Sentiment Analysis Web App](http://34.125.92.133:8501/)
+Check out the interactive web application to see the model in action: [Sentiment Analysis Web App](https://imdb-movie-sentiment-analysis.streamlit.app/)
 
 ### Dataset Link:
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
